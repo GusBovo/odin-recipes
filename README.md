@@ -1,0 +1,1 @@
+A simple website project where I will be showing some of the skills learned through TOP. Hopefully I will be able to put lists, links (absolute and relative), images (with alt), headings, paragraphs and other stuff.
